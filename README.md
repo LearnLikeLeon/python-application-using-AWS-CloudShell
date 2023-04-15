@@ -21,16 +21,11 @@ The image of the final project is shown below:
   * Create development environment that is cloud-based such as : 
 
       ### AWS CloudShell
-      
-         ![AWS CloudShell_1](https://user-images.githubusercontent.com/121564302/232228715-45a9859f-a787-4057-85f1-4fb0d2c69df6.png)
 
         - To see the list of tools available in your AWS Account by Default;  type the following command :
         
           $ ls /usr/local/bin -la 
-           
-        ![Tools available in our aws account by default](https://user-images.githubusercontent.com/121564302/232228923-520530e3-ef7a-460d-937f-6aa33fe4bada.png)
-        
-
+   
         RQ : You will see the AWS Command Line Interface " AWS CLI V2 " 
 
            -> There is the Elastic Beanstalk Command Line Interface " eb "
